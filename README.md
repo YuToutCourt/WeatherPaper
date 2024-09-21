@@ -5,9 +5,12 @@
 
 <img src="./image/logo.png" width="300" height="300">
 
-# WheaterPaper
+# WeatherPaper
 
 <img src="https://img.shields.io/badge/Python-3-yellow.svg?style=plastic"> <img src="https://img.shields.io/badge/WallpaperEngine-blue.svg?style=plastic">
+
+The will change the wallpaper of Wallpaper Engine based on the current weather condition of your location and the time of the day.
+That means that you need to set playlist in Wallpaper Engine with the name of the weather condition and the time of the day.
 
 ## Installation 
 
@@ -20,18 +23,11 @@ Locate the Wallpaper Engine installation folder and add its path to the `.env` f
 You can get more information on that [here](https://help.wallpaperengine.io/en/functionality/cli.html#command-line-controls)
 
 
-## Usage
+## Playlist in Wallpaper Engine
 
-The will change the wallpaper of Wallpaper Engine based on the current weather condition of your location and the time of the day.
-That means that you need to set playlist in Wallpaper Engine with the name of the weather condition and the time of the day.
 
-### **⚠️ You absolutely need to have a the correct title of the playlist in Wallpaper Engine for the application to make the change. ⚠️**
 ![alt text](/image/image.png)
-
-This is an exemple of the name of the playlist in Wallpaper Engine. The name of the playlist is `summer-partiallycloudy-sunset` which means that the weather condition is `partiallycloudy` and the time of the day is `day`.
-
-You can find the list of all the title available for the playlist down below.
-
+### **⚠️ Your playlist absolutely need to have a title in the list down below ⚠️**
 <details>
 <summary>All titles available for the playlist</summary>
 
@@ -829,7 +825,7 @@ You can find the list of all the title available for the playlist down below.
 
 If you want to launch the application on startup on Windows
 
-Add the file to the Startup folder **Press** `Win + R`, **type** `shell:startup`, and **press** `Enter`. This will open the Startup folder for the current user. Place your `.exe` a shortcut to it in this folder.
+Add the file to the Startup folder **Press** `Win + R`, **type** `shell:startup`, and **press** `Enter`. This will open the Startup folder for the current user. Place a shortcut of the `.exe` of the program in this folder
 
 ----
 
