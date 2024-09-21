@@ -7,8 +7,7 @@
 
 # WheaterPaper
 
-<img src="https://img.shields.io/badge/Python-3-yellow.svg?style=plastic">
-<img src="https://img.shields.io/badge/WallpaperEngine-blue.svg?style=plastic">
+<img src="https://img.shields.io/badge/Python-3-yellow.svg?style=plastic"> <img src="https://img.shields.io/badge/WallpaperEngine-blue.svg?style=plastic">
 
 ## Installation 
 
