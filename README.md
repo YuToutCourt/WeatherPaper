@@ -32,7 +32,7 @@ You can get more information on that [here](https://help.wallpaperengine.io/en/f
 - Ensure the title is exactly as shown in the list to avoid issues.
 - The playlist names are case-sensitive and must be used consistently across the tool.
 <details>
-<summary>All titles available for the playlist</summary>
+<summary>All titles available for the playlist (Clike Me)</summary>
 
 <details>
 <summary>Winter</summary>
