@@ -11,15 +11,26 @@
 
 ## Installation 
 
+Download the last release of the application [here](https://github.com/YuToutCourt/WeatherPaper/releases/)
+
+Unzip the file and modify the `.env` file with your own API key from [VisualCrossing](https://www.visualcrossing.com/)
+
+
+Locate the Wallpaper Engine installation folder and add its path to the `.env` file.
+You can get more information on that [here](https://help.wallpaperengine.io/en/functionality/cli.html#command-line-controls)
+
+
 ## Usage
 
+The will change the wallpaper of Wallpaper Engine based on the current weather condition of your location and the time of the day.
+That means that you need to set playlist in Wallpaper Engine with the name of the weather condition and the time of the day.
 
-## Settings up playlist in Wallpaper Engine
+### **⚠️ You absolutely need to have a the correct title of the playlist in Wallpaper Engine for the application to make the change. ⚠️**
+![alt text](/image/image.png)
 
-### Step 1
+This is an exemple of the name of the playlist in Wallpaper Engine. The name of the playlist is `summer-partiallycloudy-sunset` which means that the weather condition is `partiallycloudy` and the time of the day is `day`.
 
-**List of all current weather condition:** https://docs.google.com/spreadsheets/d/1cc-jQIap7ZToVaEgiXEk_Aa6YVYjSObLV9PMe4oHrFg/edit?gid=1769797687#gid=1769797687
-
+You can find the list of all the title available for the playlist down below.
 
 <details>
 <summary>All titles available for the playlist</summary>
