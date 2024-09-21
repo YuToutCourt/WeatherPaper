@@ -829,8 +829,7 @@ You can find the list of all the title available for the playlist down below.
 
 If you want to launch the application on startup on Windows
 
-Add the file to the Startup folder **Press** `Win + R`, **type** `shell:startup`, and **press** `Enter`. This will open the Startup folder for the current user. Place your `.exe` file (or a shortcut to it) in this folder. Any program in this folder will be executed at startup
-
+Add the file to the Startup folder **Press** `Win + R`, **type** `shell:startup`, and **press** `Enter`. This will open the Startup folder for the current user. Place your `.exe` a shortcut to it in this folder.
 
 ----
 
