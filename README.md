@@ -818,9 +818,9 @@
 
 Feel free to give your opinion about the application and on what it can be improved
 
-[contributors-shield]: https://img.shields.io/github/contributors/YuToutCourt/OtakuEyes?style=for-the-badge
-[contributors-url]: https://github.com/YuToutCourt/OtakuEyes/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/YuToutCourt/OtakuEyes.svg?style=for-the-badge
-[stars-url]: https://github.com/YuToutCourt/OtakuEyes/stargazers
-[issues-shield]: https://img.shields.io/github/issues/YuToutCourt/OtakuEyes.svg?style=for-the-badge
-[issues-url]: https://github.com/YuToutCourt/OtakuEyes/issues
+[contributors-shield]: https://img.shields.io/github/contributors/YuToutCourt/WeatherPaper?style=for-the-badge
+[contributors-url]: https://github.com/YuToutCourt/WeatherPaper/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/YuToutCourt/WeatherPaper.svg?style=for-the-badge
+[stars-url]: https://github.com/YuToutCourt/WeatherPaper/stargazers
+[issues-shield]: https://img.shields.io/github/issues/YuToutCourt/WeatherPaper.svg?style=for-the-badge
+[issues-url]: https://github.com/YuToutCourt/WeatherPaper/issues
