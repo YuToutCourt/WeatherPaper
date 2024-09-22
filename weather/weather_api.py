@@ -62,7 +62,9 @@ def get_current_weather(data, hour) -> str:
     """
     for values in data:
         if values[1] == hour:
-            return values[0]
+            # Sometimes the weather condition has additional information like 'Rain, Overcast' 
+            # so we split the string and get the first word
+            return values[0].split(',')[0].strip() 
         
 def get_sun_info(latitude, longitude) -> dict[str, datetime]:
     """
