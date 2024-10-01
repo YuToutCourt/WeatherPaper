@@ -2,7 +2,7 @@ from datetime import datetime
 from icecream import ic
 
 from weather.weather_api import *
-from wallpaper.wallpaper import *
+from wallpaper.wallpaper import as_playlist, create_playlist_name
 
 def cron(API_KEY_WEATHER, WEATHER_URL, WALLPAPER_EXE_PATH):
     date = get_current_date()
@@ -18,4 +18,4 @@ def cron(API_KEY_WEATHER, WEATHER_URL, WALLPAPER_EXE_PATH):
 
     ic(date, location, current_season, values, hour, time_of_day, current_weather, playlist_name)
 
-    set_wallpaper(WALLPAPER_EXE_PATH, playlist_name)
+    as_playlist(WALLPAPER_EXE_PATH, playlist_name)
