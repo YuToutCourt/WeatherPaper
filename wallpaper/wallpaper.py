@@ -17,7 +17,7 @@ def create_playlist_name(current_season, current_weather, time_of_day) -> str:
     """
     return f"{current_season}-{current_weather.replace(' ', '')}-{time_of_day}".lower()
 
-def as_playlist(WALLPAPER_EXE_PATH, playlist_name, n=0):
+def has_playlist(WALLPAPER_EXE_PATH, playlist_name, n=0):
     """
     Check if the user have the playlist, by setting the wallpaper and checking if the wallpaper has changed.
     If not changed, play a notification to the user.
@@ -35,7 +35,7 @@ def as_playlist(WALLPAPER_EXE_PATH, playlist_name, n=0):
         return
     else:
         n += 1
-        as_playlist(WALLPAPER_EXE_PATH, playlist_name, n)
+        has_playlist(WALLPAPER_EXE_PATH, playlist_name, n)
 
 
 def get_wallpaper(WALLPAPER_EXE_PATH):
